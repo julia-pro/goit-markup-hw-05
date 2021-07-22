@@ -437,7 +437,7 @@ img {
   fill: var(--second-text-color);
   background-color: var(--second-text-color);
 }
-.social-list-link:hover .social-list-icon,
+.social-list-link:focus .social-list-icon,
 .social-list-link:hover .social-list-icon {
   fill: var(--second-title-color);
 }
